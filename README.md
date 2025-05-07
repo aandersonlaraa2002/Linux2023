@@ -11,8 +11,8 @@ To execute the script, follow these steps:
 
 Clone the repository to your local machine:
 
-git clone https://github.com/KingAtomsk0/Linux_Final_Project.git
-Repository directory location:
+
+
 
 cd Linux_Final_Project
 Make script executable:
